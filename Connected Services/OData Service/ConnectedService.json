@@ -1,0 +1,38 @@
+﻿{
+  "ProviderId": "Unchase.OData.ConnectedService",
+  "Version": "0.1.0.0",
+  "GettingStartedDocument": {
+    "Uri": "https://msdn.microsoft.com/en-us/library/cc668772(v=vs.110).aspx"
+  },
+  "ExtendedData": {
+    "FunctionImportsGenerator": 0,
+    "IncludeExtensionsT4File": true,
+    "GenerateFunctionImports": true,
+    "ServiceName": "OData Service",
+    "Endpoint": "http://localhost:84/0/ServiceModel/EntityDataService.svc/$metadata",
+    "EdmxVersion": {
+      "Major": 1,
+      "Minor": 0,
+      "Build": 0,
+      "Revision": 0,
+      "MajorRevision": 0,
+      "MinorRevision": 0
+    },
+    "GeneratedFileNamePrefix": "Reference",
+    "UseNameSpacePrefix": false,
+    "NamespacePrefix": null,
+    "UseDataServiceCollection": true,
+    "OpenGeneratedFilesOnComplete": false,
+    "LanguageOption": 0,
+    "UseNetworkCredentials": true,
+    "NetworkCredentialsUserName": "Supervisor",
+    "NetworkCredentialsPassword": "Supervisor",
+    "NetworkCredentialsDomain": null,
+    "WebProxyUri": null,
+    "UseWebProxy": false,
+    "UseWebProxyCredentials": false,
+    "WebProxyNetworkCredentialsUserName": null,
+    "WebProxyNetworkCredentialsPassword": null,
+    "WebProxyNetworkCredentialsDomain": null
+  }
+}
